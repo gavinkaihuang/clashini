@@ -1,0 +1,53 @@
+# 内容：国内主流 AI 平台分流规则（防误走代理）
+
+# Moonshot / Kimi
+DOMAIN-SUFFIX,kimi.ai
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,kimicdn.com
+
+# DeepSeek (深度求索)
+DOMAIN-SUFFIX,deepseek.com
+
+# 智谱 AI / 智谱清言 / GLM
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,bigmodel.cn
+
+# MiniMax / 海螺 AI
+DOMAIN-SUFFIX,minimax.io
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,hailuoai.com
+DOMAIN-SUFFIX,hailuoai.video
+
+# 阿里通义千问 / 百炼
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,dashscope.aliyuncs.com
+
+# 百度文心一言
+DOMAIN-SUFFIX,yiyan.baidu.com
+DOMAIN-SUFFIX,ernie.baidu.com
+
+# 阶跃星辰 / 跃问
+DOMAIN-SUFFIX,stepfun.com
+DOMAIN-SUFFIX,yuewen.cn
+
+# 字节跳动 豆包 / 扣子
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,coze.cn
+
+# 秘塔 AI 搜索
+DOMAIN-SUFFIX,metaso.cn
+
+# 零一万物 / 万知
+DOMAIN-SUFFIX,01.ai
+DOMAIN-SUFFIX,wanzhi.com
+DOMAIN-SUFFIX,lingyiwanwu.com
+
+# 百川智能
+DOMAIN-SUFFIX,baichuan-ai.com
+
+# 科大讯飞星火
+DOMAIN-SUFFIX,sparkdesk.cn
+DOMAIN-SUFFIX,xfyun.cn
